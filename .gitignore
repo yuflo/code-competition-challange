@@ -18,4 +18,7 @@ __pycache__/
 # binary
 bin/
 
+# local
+local/
+
 .DS_Store
