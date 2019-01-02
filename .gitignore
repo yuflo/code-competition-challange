@@ -1,0 +1,14 @@
+# C extensions
+*.o
+*.i
+*.s
+*.so
+
+# Cpp extensions
+
+# Python / Byte-compiled / ..
+*.py[cod]
+*.$py.class
+
+# back-up /
+*.swp
