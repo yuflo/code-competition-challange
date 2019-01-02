@@ -7,8 +7,15 @@
 # Cpp extensions
 
 # Python / Byte-compiled / ..
+__pycache__/
 *.py[cod]
 *.$py.class
+*.pkl
 
 # back-up /
 *.swp
+
+# binary
+bin/
+
+.DS_Store
