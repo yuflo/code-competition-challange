@@ -29,7 +29,8 @@ bool dfs(int i, int sum){
 
 /*
  * solve by using stack, we make a little extension for the original
- * problem by introducing a constraint (m) to the number of a[i].
+ * problem by introducing a constraint (m) to the size of selected 
+ * a[i].
  */
 bool dfsStack(){
 
